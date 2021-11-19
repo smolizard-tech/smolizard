@@ -1,2 +1,0 @@
-# smollizard
-smollizard webiste
